@@ -1,0 +1,29 @@
+body{
+    background-color: #73cdef;
+}
+
+.main{
+    height: 100vh;
+}
+.section{
+    margin-top: 10rem;
+    width: 35rem !important;
+    height:  20rem !important;
+}
+
+.btnoption{
+    background-color: #73cdef;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 16px;
+    font-size: 18px;
+    margin: 10px;
+}
+.start{
+    background-color: #73cdef;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 16px;
+    font-size: 18px;
+    margin: 10px;
+}
